@@ -1,5 +1,5 @@
 {
-  "name": "pdfToCsvs",
+  "name": "Teste-2-Transformacao-de-dados",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -9,6 +9,6 @@
     "pdfjs-dist": "^2.10.377"
   },
   "scripts": {
-    "run": ""
+    "run": "node index.js"
   }
 }
