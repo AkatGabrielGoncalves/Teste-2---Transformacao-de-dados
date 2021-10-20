@@ -1,14 +1,13 @@
 {
-  "name": "Teste-2-Transformacao-de-dados",
+  "name": "Teste-2---Transformacao-de-dados",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.23.0",
     "jszip": "^3.7.1",
     "pdfjs-dist": "^2.10.377"
   },
   "scripts": {
-    "run": "node index.js"
+    "start": "node pdfToCsvToZip.js"
   }
 }
